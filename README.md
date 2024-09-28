@@ -2,6 +2,10 @@
 
 ![Ticketing UI App](https://github.com/user-attachments/assets/e816e1f0-f93d-488f-bc8d-e0b30b263d5f)
 
+---
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nobelleon) 
+
 A new Flutter project.
 
 ## Getting Started
